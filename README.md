@@ -1,4 +1,4 @@
-![logo]([https://github.com/rahulsuthar90243-stack/rahulsuthar90243-stack/blob/main/Screenshot%202025-11-20%20120305.png](https://github.com/rahulsuthar90243-stack/rahulsuthar90243-stack/blob/44bcdb9a1d604cef16b3ff2bcaae187b5cf17b62/ChatGPT%20Image%20Dec%2027%2C%202025%2C%2012_12_09%20AM.png))
+![image alt](![image alt](https://github.com/rahulsuthar90243-stack/C-programming-100-problems/blob/b05b9eed49f0a95e89edc387611cb569368195a1/100%20problem%20image.png))
 <h1 align="center">Hi 👋, I'm Rahul Suthar</h1>
 <h3 align="center"> First-year BCA student with a strong interest in the tech Software Developed.</h3>
 
