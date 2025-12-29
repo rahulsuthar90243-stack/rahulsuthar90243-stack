@@ -1,6 +1,4 @@
 ![image alt](https://github.com/rahulsuthar90243-stack/rahulsuthar90243-stack/blob/2bdc976504f90f873a6c02c110a4cec14349eef5/ChatGPT%20Image%20Dec%2027%2C%202025%2C%2012_12_09%20AM.png)
-
-<h1 align="center">Hi 👋, I'm Rahul Suthar</h1>
 <h3 align="center"> First-year BCA student with a strong interest in the tech Software Developed.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
