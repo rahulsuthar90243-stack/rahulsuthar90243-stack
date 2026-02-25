@@ -3,7 +3,7 @@
 Open-source projects in C programming<br>
 👯 Collaborating on beginner-friendly C &amp; web projects<br>
 🤝 Help with project structure and Git/GitHub<br>
-🌱 Learning C, Web Development, AI tools &amp; Digital Marketing<br>
+🌱 Learning C, Web Development, AI tools &amp;<br>
 💬 Ask me about C basics, student projects, and GitHub<br>
 ⚡ Fun fact: I enjoy turning simple ideas into real projects
 
