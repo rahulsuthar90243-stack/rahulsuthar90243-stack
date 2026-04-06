@@ -2,11 +2,11 @@
 
 My name is Rahul and I'm an MLSU Student.
 
-👯 Collaborating on C++ &amp; Frontend Development<br>
-📚 I'm currently learning DSA<br>
-🤝 Help with project structure and Git/GitHub<br>
-🌱 Currently learning by building.<br>
-⚡ Fun fact: I enjoy turning simple ideas into real projects<br>
+👯 Collaborating on **C++ & Frontend Development**<br>
+📚 I'm currently learning **Data Structures & Algorithms (DSA)**<br>
+🤝 Looking for help with **project structure and Git/GitHub**<br>
+🌱 Learning by **building real-world projects**<br>
+⚡ Fun fact: I love turning **simple ideas into real, working products**<br>
 
 
 ## 🌐 Socials:
