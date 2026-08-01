@@ -6,6 +6,7 @@ My name is Rahul and I'm an MLSU Student.
 📚 I'm currently learning **Data Structures & Algorithms (DSA)**<br>
 🤝 Looking for help with **project structure and Git/GitHub**<br>
 🌱 Learning by **building real-world projects**<br>
+🤖 Exploring **AI Automation & Workflow Development**<br>
 ⚡ Fun fact: I love turning **simple ideas into real, working products**<br>
 
 
